@@ -1,4 +1,3 @@
 ## MyCloudStore
 
-Web aplikacija za cuvanje kriptovanih tekstualnih fajlova na servisu. Implementirana dva algoritma za enkripciju i dekripciju podataka (md5, double transposition).
-
+Web application for storing encrypted text files on a service. Implemented two algorithms for data encryption and decryption (MD5, double transposition).
